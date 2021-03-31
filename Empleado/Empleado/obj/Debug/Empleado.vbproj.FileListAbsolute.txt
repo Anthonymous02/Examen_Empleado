@@ -1,0 +1,12 @@
+C:\Users\Anthony\source\repos\Empleado\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\Anthony\source\repos\Empleado\Empleado\bin\Debug\Empleado.exe
+C:\Users\Anthony\source\repos\Empleado\Empleado\bin\Debug\Empleado.pdb
+C:\Users\Anthony\source\repos\Empleado\Empleado\bin\Debug\Empleado.xml
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.vbprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.form1.resources
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.Resources.resources
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.vbproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.vbproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.exe
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.xml
+C:\Users\Anthony\source\repos\Empleado\Empleado\obj\Debug\Empleado.pdb
